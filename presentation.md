@@ -40,7 +40,7 @@
 ```apl
 2 3 4
 ```
-![image caption](chad.jpg)
+![image caption](brain.jpg)
 <!-- end_slide -->
 
 # APL
